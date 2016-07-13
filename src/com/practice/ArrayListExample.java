@@ -17,6 +17,7 @@ public class ArrayListExample {
 		  obj.add("Steve");
 		  obj.add("Anuj");
 
+		  obj.add("deepak");
 		  /* Displaying array list elements */
 		  System.out.println("Currently the array list has following elements:"+obj);
 
