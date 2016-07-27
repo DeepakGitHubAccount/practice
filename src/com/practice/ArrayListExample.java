@@ -11,7 +11,7 @@ public class ArrayListExample {
 		  ArrayList<String> obj = new ArrayList<String>();
 
 		  /*This is how elements should be added to the array list*/
-		  obj.add("Ajeet");
+		  obj.add("Ajeeti");
 		  obj.add("Harry");
 		  obj.add("Chaitanya");
 		  obj.add("Steve");
