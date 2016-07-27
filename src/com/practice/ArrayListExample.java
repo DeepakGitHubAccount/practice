@@ -13,7 +13,7 @@ public class ArrayListExample {
 		  /*This is how elements should be added to the array list*/
 		  obj.add("Ajeeti");
 		  obj.add("Harry");
-		  obj.add("Chaitanya");
+		  obj.add("Chaitanyai");
 		  obj.add("Steve");
 		  obj.add("Anuj");
 
